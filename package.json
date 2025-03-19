@@ -1,0 +1,32 @@
+{
+  "name": "@10xdevs/http-client",
+  "version": "0.0.1",
+  "description": "Node HTTP client used in course 10xDevs.pl",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/przeprogramowani/10x-http-client.git"
+  },
+  "keywords": [
+    "http",
+    "superagent",
+    "course",
+    "delay",
+    "timeout"
+  ],
+  "author": "Przeprogramowani.pl",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "10.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/przeprogramowani/10x-http-client/issues"
+  },
+  "homepage": "https://github.com/przeprogramowani/10x-http-client#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
