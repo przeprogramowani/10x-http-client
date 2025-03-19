@@ -1,5 +1,5 @@
 {
-  "name": "@10xdevs/http-client",
+  "name": "@10xdevspl/http-client",
   "version": "0.0.1",
   "description": "Node HTTP client used in course 10xDevs.pl",
   "main": "index.js",
