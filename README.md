@@ -11,7 +11,7 @@ A simple Node.js wrapper for superagent with built-in random delay (3-5 seconds)
 ## Installation
 
 ```
-npm install
+npm install @10xdevspl/http-client
 ```
 
 ## Usage
