@@ -2,9 +2,11 @@
 
 A simple Node.js wrapper for superagent with built-in random delay (3-5 seconds) for all requests.
 
-## Important Node
+## ⚠ Important Note
 
-This package is not for production use. It is a simple wrapper for superagent with built-in random delay for all requests. Educational purposes only.
+- Educational purposes only.
+- This package is NOT for production use.
+- It is a simple wrapper for superagent with built-in random delay for all requests.
 
 ## Installation
 
